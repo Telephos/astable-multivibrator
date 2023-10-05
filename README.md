@@ -10,5 +10,6 @@ Part list:
 6) 62k ohm resistor
 7) DIP switch (CUI Devices - DS01-254-L-01BE)
 
-   ![astable-multivibrator-diagram](https://github.com/Telephos/astable-multivibrator/assets/22378231/a36d8b8e-b515-4897-ba9a-2fbaed782f21)
-****
+![astable-multivibrator-diagram](https://github.com/Telephos/astable-multivibrator/assets/22378231/a36d8b8e-b515-4897-ba9a-2fbaed782f21)
+
+![pcb](https://github.com/Telephos/astable-multivibrator/assets/22378231/4b17a172-73f0-4d99-a8d0-97e6d53bbeaa)
