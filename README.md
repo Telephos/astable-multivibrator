@@ -1,5 +1,5 @@
 # astable-multivibrator
-Geber files and Multisim for a simple astable multivibrator that uses a coin cell battery. The multisim blink frequency is off. In reality the LEDs are blinking at about 2.8 Hz.
+Geber files and Multisim for a simple astable multivibrator that uses a coin cell battery. The multisim blink frequency is off. In reality the LEDs are blinking at about 2.8 Hz. On current for the LEDs was modified to be 1mA rather than 5mA, in the Multisim simulation.
 
 Part list:
 1) Battery Retainer (Keystone 3034TR)
